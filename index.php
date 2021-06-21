@@ -31,7 +31,7 @@
                 </div>
               </div>
               <div class="col-sm-12 col-md img text-center">
-                <img src="img/Bank.gif" class="img-fluid pt-2">
+                <img src="https://i.pinimg.com/originals/30/82/dd/3082dd40cdbe3ce2a85c3d8ad661ddc0.gif" alt="this slowpoke moves" class="img-fluid pt-2">
               </div>
             </div>
 
